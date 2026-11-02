@@ -1,0 +1,7 @@
+pillow>=10.1
+numpy>=1.26
+imageio-ffmpeg>=0.5.1
+pyttsx3>=2.98
+streamlit>=1.39
+anthropic>=0.75
+python-dotenv>=1.0

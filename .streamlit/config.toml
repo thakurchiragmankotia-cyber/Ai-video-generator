@@ -1,0 +1,19 @@
+# UI theme tokens from DESIGN.md §2
+
+[theme.light]
+primaryColor = "#0F3D3E"
+backgroundColor = "#F7F5F0"
+secondaryBackgroundColor = "#FFFFFF"
+textColor = "#1A1F1E"
+
+[theme.dark]
+primaryColor = "#C8A45C"
+backgroundColor = "#121615"
+secondaryBackgroundColor = "#1C2221"
+textColor = "#ECEFEE"
+
+[server]
+maxUploadSize = 50
+
+[browser]
+gatherUsageStats = false

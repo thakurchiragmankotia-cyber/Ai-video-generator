@@ -1,0 +1,13 @@
+{
+  "name": "Palm Grove Studio",
+  "location": "Baner, Pune",
+  "property_type": "1 BHK Studio",
+  "features": "Fully furnished, Close to IT parks",
+  "contact": "Call +91 90000 11111",
+  "images": [
+    "images/07_guest_room.jpg",
+    "images/05_bedroom.jpg",
+    "images/does_not_exist.jpg",
+    "CREDITS.md"
+  ]
+}
